@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Lab_10_TicTacToe">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Lab_10_TicTacToe" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Lab_10_TicTacToe/src" />
+    </SOURCES>
+  </library>
+</component>
