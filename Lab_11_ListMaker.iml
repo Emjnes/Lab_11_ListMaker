@@ -7,5 +7,16 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../Lab_08_GetMethodical/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Lab_08_GetMethodical" level="project" />
+    <orderEntry type="library" exported="" name="Lab_10_TicTacToe" level="project" />
   </component>
 </module>

@@ -167,8 +167,26 @@ public class SafeInput {
         for (int i = 0; i < totalStars; i++) {
             System.out.print("*");
         }
-        System.out.println(); // Move to the next line
+        System.out.println(); // Move to the next line{
+        // }
+
+    }
+
+    public static Object getRegExString(String s, String s1) {
+
+
+        return null;
+    }
+
+    public static int getRangedInt(String s, int i, int size) {
+        return 0;
+    }
+
+    public static boolean getYNConfirm(String s) {
+        return false;
+    }
+
+    public static String getString(String s) {
+        return null;
     }
 }
-
-
